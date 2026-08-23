@@ -1,0 +1,21 @@
+name: Support request / Hilfe
+description: Ask for help with 00:17 without posting personal information.
+title: "[Support] "
+labels: [support]
+body:
+  - type: markdown
+    attributes:
+      value: For purchase issues, first try Settings → Purchases → Restore Purchases. Never post receipts or Apple Account information here.
+  - type: input
+    id: version
+    attributes:
+      label: App version and build
+      placeholder: 1.0 (1)
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: How can we help?
+    validations:
+      required: true
