@@ -1,6 +1,6 @@
 # Privacy Policy / Datenschutzerklärung
 
-Effective / Stand: 23 August 2026
+Effective / Stand: 13 September 2026
 
 ## Deutsch
 
@@ -8,9 +8,9 @@ Effective / Stand: 23 August 2026
 
 Die App speichert ausschließlich auf dem Gerät:
 
-- Storyfortschritt und getroffene Entscheidungen;
+- Storyfortschritt, getroffene Entscheidungen und entdeckte Enden;
 - App-Einstellungen;
-- eine freiwillige private Notiz in Season 10.
+- gegebenenfalls eine private Notiz, die in einer früheren Fassung gespeichert wurde. Die aktuelle Geschichte bietet diese Notizfunktion nicht mehr an.
 
 Diese Inhalte werden von der App nicht übertragen, verkauft oder für Werbung bzw. Profiling verwendet. Sie können durch Löschen der App vom Gerät entfernt werden; der Storyfortschritt einzelner Seasons kann außerdem in der App zurückgesetzt werden.
 
@@ -18,7 +18,7 @@ Lokale Benachrichtigungen sind optional. iOS fragt vor der Aktivierung um Erlaub
 
 In-App-Käufe werden von Apple über StoreKit verarbeitet. Die App erhält nur den für die Freischaltung erforderlichen Kaufstatus und verarbeitet keine Zahlungs- oder Kreditkartendaten. Für Apples Datenverarbeitung gelten Apples eigene Datenschutzbestimmungen und Einstellungen.
 
-Datenschutzfragen können über das [öffentliche Support-System](https://github.com/LilaQ/StoryGame-issues/issues/new/choose) gestellt werden. Bitte dort keine persönlichen oder vertraulichen Informationen veröffentlichen.
+Bei Datenschutzfragen schreibe an [info@emudev.de](mailto:info@emudev.de). Veröffentliche keine persönlichen oder vertraulichen Informationen in öffentlichen GitHub-Issues.
 
 ## English
 
@@ -26,9 +26,9 @@ Datenschutzfragen können über das [öffentliche Support-System](https://github
 
 The app stores only on the device:
 
-- story progress and choices;
+- story progress, choices and discovered endings;
 - app settings;
-- an optional private note in Season 10.
+- a private note saved in an earlier edition, if present. The current story no longer offers this note feature.
 
 The app does not transmit or sell this content or use it for advertising or profiling. It can be removed by deleting the app from the device; progress for individual seasons can also be reset inside the app.
 
@@ -36,4 +36,4 @@ Local notifications are optional. iOS asks for permission before enabling them. 
 
 In-app purchases are processed by Apple through StoreKit. The app receives only the entitlement status needed to unlock content and does not process payment or credit-card information. Apple's own privacy policies and settings apply to Apple's processing.
 
-Privacy questions can be submitted through the [public support system](https://github.com/LilaQ/StoryGame-issues/issues/new/choose). Do not publish personal or confidential information there.
+For privacy questions, contact [info@emudev.de](mailto:info@emudev.de). Do not publish personal or confidential information in public GitHub issues.
